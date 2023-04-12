@@ -1,4 +1,4 @@
-package com.bridgelabz.Basics;
+package com.Practise.Basics;
 //Sum of numbers in a given range;
 public class SumOfGivenRange {
     public static void main(String[] args) {
