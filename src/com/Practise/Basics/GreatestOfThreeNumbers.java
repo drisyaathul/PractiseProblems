@@ -18,6 +18,5 @@ public class GreatestOfThreeNumbers {
             System.out.println(num2+" is the Greatest Number");
         else
             System.out.println(num3+" is the Greatest Number");
-
     }
 }
